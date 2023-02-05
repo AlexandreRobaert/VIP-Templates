@@ -9,25 +9,25 @@
 import Foundation
 
 enum ___VARIABLE_sceneName___Model {
-  
-  enum Request {
-    case doSomething(item: Int)
-  }
-  
-  enum Response {
-    case doSomething(newItem: Int, isItem: Bool)
-  }
-  
-  enum ViewModel {
-    case doSomething(viewModelData: NSObject)
-  }
-  
-  enum Route {
-    case dismiss___VARIABLE_sceneName___Scene
-    case xScene(xData: Int)
-  }
-  
-  struct DataSource {
-    //var test: Int
-  }
+    
+    enum Request {
+        case doSomething(item: Int)
+    }
+    
+    enum Response {
+        case doSomething(newItem: Int, isItem: Bool)
+    }
+    
+    enum ViewModel {
+        case doSomething(viewModelData: NSObject)
+    }
+    
+    enum Route {
+        case dismiss___VARIABLE_sceneName___Scene
+        case xScene(xData: Int)
+    }
+    
+    struct DataSource {
+        //var test: Int
+    }
 }

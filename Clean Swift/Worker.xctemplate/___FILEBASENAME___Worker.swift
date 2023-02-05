@@ -12,8 +12,8 @@ class ___VARIABLE_sceneName___Worker {
     func doSomeWork() {
         
     }
-//    
-//    func doSomeOtherWork() {
-//
-//    }
+    //    
+    //    func doSomeOtherWork() {
+    //
+    //    }
 }
